@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/codestan",
+    "name": "codica-studio/codestan",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/codestan",
+    "homepage": "https://github.com/codica-studio/codestan",
     "license": "MIT",
     "authors": [
         {
