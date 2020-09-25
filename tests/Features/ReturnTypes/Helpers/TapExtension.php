@@ -28,7 +28,7 @@ class TapExtension
 
     public function testTapProxy(): User
     {
-        return tap(new User)->update(['name' => 'Taylor Otwell']);
+        return tap(new User)->update(['name' => 'Michael Brown']);
     }
 }
 
